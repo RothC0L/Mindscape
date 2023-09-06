@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b8784b247b090471695b945937cf5a6b
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/TutorialInfo/Fonts/LICENSE.txt
+  uploadId: 434543

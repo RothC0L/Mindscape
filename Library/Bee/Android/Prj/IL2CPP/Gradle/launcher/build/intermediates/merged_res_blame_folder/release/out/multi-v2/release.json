@@ -1,0 +1,130 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\home\\.gradle\\daemon\\7.6\\com.Picha.launcher-merged_res-5:\\values-v28_values-v28.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Project\\2D Rougelike\\2D Rougelike\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "231"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.Picha.launcher-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Project\\2D Rougelike\\2D Rougelike\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "44,-1",
+                        "endOffsets": "97,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,403",
+                        "endColumns": "46,67",
+                        "endOffsets": "398,466"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\2D Rougelike\\2D Rougelike\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,10,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309,471,563,706",
+                        "endLines": "2,3,4,5,6,7,10,13,17",
+                        "endColumns": "45,56,55,48,45,46,91,10,10",
+                        "endOffsets": "96,153,209,258,304,351,558,701,930"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\home\\.gradle\\daemon\\7.6\\com.Picha.launcher-merged_res-5:\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Project\\2D Rougelike\\2D Rougelike\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "156"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\home\\.gradle\\daemon\\7.6\\com.Picha.launcher-merged_res-5:\\values-v30_values-v30.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Project\\2D Rougelike\\2D Rougelike\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,129,201,266,325",
+                        "endColumns": "73,71,64,58,60",
+                        "endOffsets": "124,196,261,320,381"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\home\\.gradle\\daemon\\7.6\\com.Picha.launcher-merged_res-5:\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Project\\2D Rougelike\\2D Rougelike\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,104",
+                        "endColumns": "47,65",
+                        "endOffsets": "100,167"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,406",
+                        "endColumns": "49,67",
+                        "endOffsets": "401,469"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\2D Rougelike\\2D Rougelike\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309,356,448,591",
+                        "endLines": "2,3,4,5,6,7,8,11,15",
+                        "endColumns": "45,56,55,48,45,46,91,10,10",
+                        "endOffsets": "96,153,209,258,304,351,443,586,815"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,10,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309,474,566,709",
+                        "endLines": "2,3,4,5,6,7,10,13,17",
+                        "endColumns": "45,56,55,48,45,46,91,10,10",
+                        "endOffsets": "96,153,209,258,304,351,561,704,933"
+                    }
+                }
+            ]
+        }
+    ]
+}

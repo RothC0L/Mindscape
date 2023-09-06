@@ -1,0 +1,17 @@
+<dependencies>
+  <compile
+      roots="D:\Project\2D Rougelike\2D Rougelike\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="D:\Project\2D Rougelike\2D Rougelike\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\Project\2D Rougelike\2D Rougelike\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:D:\Project\2D Rougelike\2D Rougelike\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar">
+    <dependency
+        name="D:\Project\2D Rougelike\2D Rougelike\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\Project\2D Rougelike\2D Rougelike\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:D:\Project\2D Rougelike\2D Rougelike\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"/>
+  </package>
+</dependencies>

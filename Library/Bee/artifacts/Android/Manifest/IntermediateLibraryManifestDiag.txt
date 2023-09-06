@@ -1,0 +1,14 @@
+Using template 'C:/Program Files/Unity/Hub/Editor/2023.1.9f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\UnityManifest.xml'
+
+android.hardware.vulkan.version was added because:
+	One of the graphics devices was Vulkan
+isGame application flag was added because:
+	Android TV Compatability was enabled
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::get_touches was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+	UnityEngine.Input::GetTouch was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b51259f0e9210b443918e15bf42bc64e
+timeCreated: 1489060426
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/2D Roguelike Upgrade Guide.pdf
+  uploadId: 434543

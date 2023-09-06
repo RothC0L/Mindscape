@@ -1,0 +1,8 @@
+<root name="" element-id="200" assign-type="None" type="Unity.Android.Gradle.GradlePropertiesFile" base-type="Unity.Android.Gradle.BaseBlock" is-default="false" dependencies="">
+  <element name="org.gradle.jvmargs" element-id="201" assign-type="Equals" property-value="-Xmx4096M" type="Unity.Android.Gradle.Property`1" base-type="BaseProperty" is-default="true" dependencies="" />
+  <element name="org.gradle.parallel" element-id="202" assign-type="Equals" property-value="True" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+  <element name="unityStreamingAssets" element-id="203" assign-type="Equals" property-value="" type="Unity.Android.Gradle.Property`1" base-type="BaseProperty" is-default="true" dependencies="" />
+  <element name="" element-id="207" assign-type="None" raw-value="unityTemplateVersion=9" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+  <element name="" element-id="208" assign-type="None" raw-value="unityProjectPath=D:/Project/2D Rougelike/2D Rougelike" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+  <element name="" element-id="209" assign-type="None" raw-value="org.gradle.welcome=never" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+</root>

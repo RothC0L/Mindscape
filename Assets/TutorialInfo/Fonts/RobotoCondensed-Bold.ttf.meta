@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: b20f139c373fa4555a05cdd0036dfa44
+timeCreated: 1475687636
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Roboto Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/TutorialInfo/Fonts/RobotoCondensed-Bold.ttf
+  uploadId: 434543

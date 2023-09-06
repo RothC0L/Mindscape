@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b284a6525342f44599e9ce79e37c2d61
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/Fonts/PressStart2P-Regular.ttf
+  uploadId: 434543

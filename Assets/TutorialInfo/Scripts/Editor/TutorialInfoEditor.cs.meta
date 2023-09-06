@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 888a42c461eac43e7a22504fedd11a27
+timeCreated: 1475687478
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/TutorialInfo/Scripts/Editor/TutorialInfoEditor.cs
+  uploadId: 434543

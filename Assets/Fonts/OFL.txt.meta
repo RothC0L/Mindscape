@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5014456921e71459d869c8378fed6ca3
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/Fonts/OFL.txt
+  uploadId: 434543

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eabc9546105bf4accac1fd62a63e88e6
+timeCreated: 1487337779
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/TutorialInfo/Layout.wlt
+  uploadId: 434543
